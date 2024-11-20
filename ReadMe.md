@@ -1,5 +1,38 @@
 # C Programming👨‍💻Language Course 👨‍🏫
-# what is C 🤔
+# Repository Struct
+# Intro to computer science World
+I’m one of those who feel that programming languages have made our lives more complex, and we often struggle to understand them as seamlessly as a computer does. Before diving deep into the C language, we’ll take a brief look at how computers "think" and how they work. So, grab a cup of coffee and enjoy learning the basics of programming languages, one sip at a time!
+<div align="center">
+<img src="asset/images/_1.webp" alt="Intro to computer science World">
+</div>
+
+### How Computers Work
+1. **Hardware Basics:**
+The core of a computer is its Central Processing Unit (CPU), which performs calculations and executes instructions.
+- The Memory (RAM) stores data temporarily for quick access.
+- Storage (HDD/SSD) stores data permanently.
+- Input/output devices (like keyboards, screens) allow interaction with the system.
+2. **Binary Operations:**
+- Computers only understand binary (0s and 1s) because their hardware operates with electrical signals (on/off states).
+- All instructions and data are converted into machine code, a binary representation.
+3. **Execution Cycle:**
+- The CPU fetches an instruction from memory, decodes it, and executes it. This process is called the Fetch-Decode-Execute Cycle.
+4. **Software:**
+- Software is a set of instructions that tell the hardware what to do. These instructions can range from high-level code to low-level machine code.
+### What is a programming language?
+A programming language is a formal language for us. It helps us to communicate with the computer and ask it for our desired output. Programming languages consist of a set to instructions that we give just like sentences or statements we say to another human being which communicating.
+### Why Do We Have High-Level and Low-Level Languages?
+1. **Low-Level Languages:**
+- These are closer to machine code and give more control over hardware.
+- Examples: Assembly language, Machine code.
+- They are faster and more efficient but difficult for humans to read and write.
+- Used for: Embedded systems, performance-critical applications.
+2. **High-Level Languages:**
+- These are abstracted from hardware and easier for humans to understand and write.
+- Examples: C, JavaScript, C++, Java... 
+- They use compilers or interpreters to translate high-level code into machine code.
+- Used for: Application development, web development, AI, etc.
+# what is C Language 
 C It was created in the 1970s 🗓 by **Dennis Ritchie**.
 C is a general-purpose, procedural programming language that allows for low-level memory manipulation. It works by providing developers the ability to write code that can be compiled and executed on different platforms with efficiency. C is widely used for system-level programming [](like operating systems, compilers, etc.) and applications that require direct interaction with hardware.
 # History of C
